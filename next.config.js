@@ -7,10 +7,10 @@ module.exports = withPWA({
     disable: process.env.NODE_ENV === 'development',
   },
   env: {
-    siteTitle: 'Your Company',
-    siteDescription: 'Your company description.',
-    siteKeywords: 'your company keywords',
-    siteUrl: 'https://notioncapture.vercel.app',
+    siteTitle: 'WellingtonCP',
+    siteDescription: 'Wellington Compounding Pharmacy',
+    siteKeywords: 'Wellington Compounding Pharmacy',
+    siteUrl: 'https://wellingtoncp.vercel.app',
     siteImagePreviewUrl: '/images/preview.png',
     twitterHandle: '@your_handle'
   },
