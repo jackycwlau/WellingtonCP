@@ -10,8 +10,8 @@ module.exports = withPWA({
     siteTitle: 'WellingtonCP',
     siteDescription: 'Wellington Compounding Pharmacy',
     siteKeywords: 'Wellington Compounding Pharmacy',
-    siteUrl: 'https://wellingtoncp.vercel.app',
+    siteUrl: 'https://wellingtoncp.netlify.app',
     siteImagePreviewUrl: '/images/preview.png',
-    twitterHandle: '@your_handle'
+    //twitterHandle: '@your_handle'
   },
 })
